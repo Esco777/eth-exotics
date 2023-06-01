@@ -1,0 +1,36 @@
+{
+    "name": "Lamborghini Centenario",
+    "description": "Designed for unbridled performance, the Centenario Roadster is based on a carbon-fiber monocoque and body.",
+    "image": "https://ipfs.io/ipfs/QmPYxAunTUtDXuVv1VgJZEtpGrmDhTKChMXu7Hs4EKQzLE/2.jpeg",
+    "id": "2",
+    "attributes": [
+        {
+            "trait_type": "Purchase Price",
+            "value": 15
+        },
+        {
+            "trait_type": "Interior",
+            "value": "Black, Red leather/Start button"
+        },
+        {
+            "trait_type": "Engine/Cylinders",
+            "value": "V12"
+        },
+        {
+            "trait_type": "Horse Power/mph",
+            "value": 770
+        },
+        {
+            "trait_type": "Mileage",
+            "value": 8347
+        },
+        {
+            "trait_type": "Owner",
+            "value": 1
+        },
+        {
+            "trait_type": "Year",
+            "value": 2016
+        }
+    ]
+}

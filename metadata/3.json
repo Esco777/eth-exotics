@@ -1,0 +1,36 @@
+{
+    "name": "Ferrari Roma",
+    "description": "It features a turbocharged 3.9-litre V8 engine that cranks out 612 horsepower along with 561 lb-ft. of torque. Interestingly, an active rear spoiler deploys at high speeds to generate additional downforce.",
+    "image": "https://ipfs.io/ipfs/QmPYxAunTUtDXuVv1VgJZEtpGrmDhTKChMXu7Hs4EKQzLE/3.jpeg",
+    "id": "3",
+    "attributes": [
+        {
+            "trait_type": "Purchase Price",
+            "value": 10
+        },
+        {
+            "trait_type": "Interior",
+            "value": "Black leather/Start button"
+        },
+        {
+            "trait_type": "Engine/Cylinders",
+            "value": "V8"
+        },
+        {
+            "trait_type": "Horse Power/mph",
+            "value": 612
+        },
+        {
+            "trait_type": "Mileage",
+            "value": 18
+        },
+        {
+            "trait_type": "Owner",
+            "value": 0
+        },
+        {
+            "trait_type": "Year",
+            "value": 2023
+        }
+    ]
+}

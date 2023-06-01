@@ -1,0 +1,36 @@
+{
+    "name": "Jaguar XJ220",
+    "description": "This Jaguar XJ220 was produced from 1992 to 1993. It replaced the 1990 Jaguar XJR-15. It's a rear-wheel drive rear mid-engined 2-door supercar coupé with 2 seats. With 542 hp, the twin turbocharged 3.5 Liter 24v V6 gasoline engine accelerates this XJ220 to 62 mph in 4.0 seconds and on to a maximum speed of 217 mph.",
+    "image": "https://ipfs.io/ipfs/QmPYxAunTUtDXuVv1VgJZEtpGrmDhTKChMXu7Hs4EKQzLE/5.jpeg",
+    "id": "5",
+    "attributes": [
+        {
+            "trait_type": "Purchase Price",
+            "value": 15
+        },
+        {
+            "trait_type": "Interior",
+            "value": "Black leather/2 seat"
+        },
+        {
+            "trait_type": "Engine/Cylinders",
+            "value": "V6"
+        },
+        {
+            "trait_type": "Horse Power/mph",
+            "value": 217
+        },
+        {
+            "trait_type": "Mileage",
+            "value": 8508
+        },
+        {
+            "trait_type": "Owner",
+            "value": 1
+        },
+        {
+            "trait_type": "Year",
+            "value": 1993
+        }
+    ]
+}

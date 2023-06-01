@@ -1,0 +1,36 @@
+{
+    "name": "Bugatti Chiron",
+    "description": "The CHIRON SPORT is BUGATTIS breathtaking interpretation of the ultimate super sports car, unveiled at the 2018 Geneva International Motor Show. A firmer chassis setting combined with lightweight components provide even sharper handling and exhilarating agility.",
+    "image": "https://ipfs.io/ipfs/QmPYxAunTUtDXuVv1VgJZEtpGrmDhTKChMXu7Hs4EKQzLE/1.jpeg",
+    "id": "1",
+    "attributes": [
+        {
+            "trait_type": "Purchase Price",
+            "value": 20
+        },
+        {
+            "trait_type": "Interior",
+            "value": "Black leather/Start button"
+        },
+        {
+            "trait_type": "Engine/Cylinders",
+            "value": "V16" 
+        },
+        {
+            "trait_type": "Horse Power/mph",
+            "value": 1500
+        },
+        {
+            "trait_type": "Mileage",
+            "value": 3500
+        },
+        {
+            "trait_type": "Owner",
+            "value": 1
+        },
+        {
+            "trait_type": "Year",
+            "value": 2018
+        }
+    ]
+}

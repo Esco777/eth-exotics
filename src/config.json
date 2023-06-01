@@ -1,0 +1,19 @@
+{
+    "31337": {
+        "listing": {
+            "address": "0x5FbDB2315678afecb367f032d93F642f64180aa3"
+        },
+        "autoSale": {
+            "address": "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512"
+        }
+    },
+    "5": {
+        "listing": {
+            "address": "0xd5C19448D316E7F4E1d2f2e479d0d29F8Ef806D6"
+        },
+        "autoSale": {
+            "address": "0xB552F366f8b572D5eC8724119e503be2e5048285"
+        },
+        "explorerURL": "https://goerli.etherscan.io/"
+    }
+}

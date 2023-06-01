@@ -1,0 +1,36 @@
+{
+    "name": "Audi R8",
+    "description": "The Audi R8 is the company's first mid-engine supercar. It is designed with extreme performance in mind, and has other high-end sports cars in its sights.",
+    "image": "https://ipfs.io/ipfs/QmPYxAunTUtDXuVv1VgJZEtpGrmDhTKChMXu7Hs4EKQzLE/4.jpeg",
+    "id": "4",
+    "attributes": [
+        {
+            "trait_type": "Purchase Price",
+            "value": 10
+        },
+        {
+            "trait_type": "Interior",
+            "value": "Black leather/Start button"
+        },
+        {
+            "trait_type": "Engine/Cylinders",
+            "value": "V10"
+        },
+        {
+            "trait_type": "Horse Power/mph",
+            "value": 611
+        },
+        {
+            "trait_type": "Mileage",
+            "value": 3300
+        },
+        {
+            "trait_type": "Owner",
+            "value": 1
+        },
+        {
+            "trait_type": "Year",
+            "value": 2020
+        }
+    ]
+}

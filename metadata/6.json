@@ -1,0 +1,36 @@
+{
+    "name": "SSC Tuatara",
+    "description": "The hypercar, which is still street-legal, has been fitted with a dramatic aero package, which consists of a large frontal splitter, frontal dive plain, directionally vaned side rockers, vertical stabilizer, augmented diffuser, a high-downforce fixed wing and an active rear wing.",
+    "image": "https://ipfs.io/ipfs/QmPYxAunTUtDXuVv1VgJZEtpGrmDhTKChMXu7Hs4EKQzLE/6.jpeg",
+    "id": "6",
+    "attributes": [
+        {
+            "trait_type": "Purchase Price",
+            "value": 15
+        },
+        {
+            "trait_type": "Interior",
+            "value": "Black leather/2 seat"
+        },
+        {
+            "trait_type": "Engine/Cylinders",
+            "value": "V8"
+        },
+        {
+            "trait_type": "Horse Power/mph",
+            "value": 1750
+        },
+        {
+            "trait_type": "Mileage",
+            "value": 123
+        },
+        {
+            "trait_type": "Owner",
+            "value": 0
+        },
+        {
+            "trait_type": "Year",
+            "value": 2021
+        }
+    ]
+}
